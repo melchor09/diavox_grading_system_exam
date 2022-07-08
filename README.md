@@ -34,7 +34,7 @@ password: 1111
 __________________________________
 
 
-Functionality
+Feature
 profile management (laravel jetstream)
 
 Super Admin:
